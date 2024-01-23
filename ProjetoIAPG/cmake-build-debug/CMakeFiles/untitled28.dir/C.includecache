@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/BarbaraUfp/CLionProjects/ProjetoIAPG/main.c
+main.h
+C:/Users/BarbaraUfp/CLionProjects/ProjetoIAPG/main.h
+
+C:/Users/BarbaraUfp/CLionProjects/ProjetoIAPG/main.h
+stdlib.h
+-
+time.h
+-
+math.h
+-
+stdio.h
+-
+string.h
+-
+conio.h
+-
+
